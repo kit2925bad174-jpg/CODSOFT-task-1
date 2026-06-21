@@ -35,4 +35,4 @@ FUTURE IMPROVEMENTS
 • Improve responsiveness for mobile devices
 
 
-© 2026 Vensiya Thiraviyaraj. All rights reserved.
+
